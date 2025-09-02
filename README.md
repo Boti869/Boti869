@@ -23,7 +23,7 @@
 ---
 
 ## 🎶 Vibes While I Work
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=6gzba9yfwqd5e8oezpoloqos4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6gzba9yfwqd5e8oezpoloqos4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=d01b1b&interchange=true&bar_color=fafffa&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=6gzba9yfwqd5e8oezpoloqos4&redirect=true)
 
 
 ---
