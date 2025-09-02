@@ -29,7 +29,8 @@
 ---
 
 ## 🌍 Let's Connect
-[![Email](https://img.shields.io/badge/Email-contact-red?style=flat-square&logo=gmail)](botondlevai@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-contact-5865F2?style=flat-square&logo=discord)](https://discord.com/users/466593729625718785)
+
 
 ---
 
