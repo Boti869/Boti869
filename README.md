@@ -34,9 +34,8 @@
 ---
 
 ## ⚡ Quick Stats
-![Profile views](https://komarev.com/ghpvc/?username=Boti869&style=flat-square&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Boti869&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boti869)](https://github.com/Boti869/github-readme-stats)
+<img alt="Github stats" align="left" width="%45" src = "https://github-readme-stats.vercel.app/api?username=Boti869&show_icons=true&theme=tokyonight"/>
+<img alt="toplangs" align="right" width="%60" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Boti869&layout=compact"/>
 <!--
 **Boti869/Boti869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
