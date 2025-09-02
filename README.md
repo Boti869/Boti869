@@ -5,14 +5,15 @@
 🏋️ In the gym by night, coding & creating by day  
 🎯 Goal: Build the tech powering the future of aerospace & defense  
 
-
+![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
 
 ---
 
 ## 🔧 Tech I Work With
-- **Languages:** C <- just one for now
+- **Languages:** C <- just one for now      
 - **Other Tools:** Git, VSCode
 - **3D CAM**: Solid Edge school projects
+
 
 ---
 
