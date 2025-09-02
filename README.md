@@ -5,11 +5,7 @@
 🏋️ In the gym by night, coding & creating by day  
 🎯 Goal: Build the tech powering the future of aerospace & defense  
 
----
 
-## ⚡ Quick Stats
-![Profile views](https://komarev.com/ghpvc/?username=Boti869&style=flat-square&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Boti869&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -29,12 +25,17 @@
 ## 🎶 Vibes While I Work
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=6gzba9yfwqd5e8oezpoloqos4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)
 
+
 ---
 
 ## 🌍 Let's Connect
 [![Email](https://img.shields.io/badge/Email-contact-red?style=flat-square&logo=gmail)](botondlevai@gmail.com)
 
+---
 
+## ⚡ Quick Stats
+![Profile views](https://komarev.com/ghpvc/?username=Boti869&style=flat-square&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Boti869&show_icons=true&theme=tokyonight)
 <!--
 **Boti869/Boti869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
