@@ -37,7 +37,7 @@
 
 ## ⚡ Quick Stats
 <img alt="Github stats" align="left" width="%45" src = "https://github-readme-stats.vercel.app/api?username=Boti869&show_icons=true&theme=tokyonight&rank_icon=github"/>
-<img alt="toplangs" align="right" width="%60" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Boti869&layout=compact"/>
+<img alt="toplangs" align="right" width="%60" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Boti869&layout=compact&size_weight=0.5&count_weight=0.5"/>
 <!--
 **Boti869/Boti869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
