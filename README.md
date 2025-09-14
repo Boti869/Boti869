@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Botond
 
-🚀 Aspiring **Mechatronics & Embedded Systems Student**  
+🚀 Aspiring **Mechatronics Student**  
 💻 Currently grinding **C and robotics**  
 🏋️ In the gym by night, coding & creating by day  
 🎯 Goal: Build the tech powering the future of aerospace & defense  
