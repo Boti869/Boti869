@@ -11,7 +11,6 @@
 
 ## 🔧 Tech I Work With
 - **Languages:** C <- just one for now      
-- **Other Tools:** Git, VSCode
 - **3D CAM**: Solid Edge school projects
 
 
