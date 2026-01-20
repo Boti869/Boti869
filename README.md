@@ -12,7 +12,7 @@
 ## 🔧 Tech I Work With
 - **Languages:** C <- just one for now      
 - **3D CAM**: Solid Edge school projects
-- **Festo FluidSIM – automation and control system simulator
+- **Festo FluidSIM** – automation and control system simulator
 
 
 ---
